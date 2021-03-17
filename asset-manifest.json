@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5dd581f1.chunk.css",
+    "main.js": "/static/js/main.7e7e2a30.chunk.js",
+    "main.js.map": "/static/js/main.7e7e2a30.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cc36b19e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cc36b19e.js.map",
+    "static/js/2.b0cdd536.chunk.js": "/static/js/2.b0cdd536.chunk.js",
+    "static/js/2.b0cdd536.chunk.js.map": "/static/js/2.b0cdd536.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a2af07a56d1047074a37c1d3957b662c.js": "/precache-manifest.a2af07a56d1047074a37c1d3957b662c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5dd581f1.chunk.css.map": "/static/css/main.5dd581f1.chunk.css.map",
+    "static/js/2.b0cdd536.chunk.js.LICENSE.txt": "/static/js/2.b0cdd536.chunk.js.LICENSE.txt",
+    "static/media/Alejandro Villa Resume.pdf": "/static/media/Alejandro Villa Resume.ad57b263.pdf",
+    "static/media/VillaSimpson.png": "/static/media/VillaSimpson.587a3d16.png",
+    "static/media/angular.png": "/static/media/angular.ac5e6fae.png",
+    "static/media/aws.png": "/static/media/aws.dcf4eb25.png",
+    "static/media/background.jpg": "/static/media/background.048546ac.jpg",
+    "static/media/database.png": "/static/media/database.946fc4d2.png",
+    "static/media/devops.png": "/static/media/devops.2ae36a77.png",
+    "static/media/docker.png": "/static/media/docker.2ca65f83.png",
+    "static/media/ibmCloud.png": "/static/media/ibmCloud.8c563a48.png",
+    "static/media/iot.png": "/static/media/iot.ece283ab.png",
+    "static/media/kubernetes.png": "/static/media/kubernetes.4655ae6f.png",
+    "static/media/mavg1.jpg": "/static/media/mavg1.016733cc.jpg",
+    "static/media/mavg2.jpg": "/static/media/mavg2.fa84f6eb.jpg",
+    "static/media/mavg3.jpg": "/static/media/mavg3.1c82d68e.jpg",
+    "static/media/mavg4.jpg": "/static/media/mavg4.a85490e0.jpg",
+    "static/media/mavg5.jpg": "/static/media/mavg5.98c04550.jpg",
+    "static/media/nodejs.png": "/static/media/nodejs.6cbe7268.png",
+    "static/media/openshift.png": "/static/media/openshift.f99b25da.png",
+    "static/media/rabbit.png": "/static/media/rabbit.5b14848a.png",
+    "static/media/react.png": "/static/media/react.47ce6e77.png",
+    "static/media/redux.png": "/static/media/redux.8251fe76.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc36b19e.js",
+    "static/js/2.b0cdd536.chunk.js",
+    "static/css/main.5dd581f1.chunk.css",
+    "static/js/main.7e7e2a30.chunk.js"
+  ]
+}
